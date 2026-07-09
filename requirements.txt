@@ -1,0 +1,6 @@
+pyspark
+networkx
+colorlover
+pandas
+plotly
+notebook
